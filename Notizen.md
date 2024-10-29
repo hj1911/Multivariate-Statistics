@@ -9,7 +9,13 @@
 install.packages("foreign", dependencies = TRUE)
 ```
 
-Laden von Paketen: 
+**Laden von Paketen:** 
 ```r
 library("foreign")
 ```
+
+**Nützliche Funktionen:**
+- `View(df)`-> Datensatz aufrufen
+- `head(df)`-> head ausgeben
+- `names(df)`-> Variablennamen
+
