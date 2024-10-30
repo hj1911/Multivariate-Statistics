@@ -18,4 +18,8 @@ library("foreign")
 - `View(df)`-> Datensatz aufrufen
 - `head(df)`-> head ausgeben
 - `names(df)`-> Variablennamen
+- `ncol()`-> Anzahl Spalten
+- `nrow()`-> Anzahl Zeilen
+- `dim()`-> Anzahl Spalten und Zeilen
+- `summary()`,`describe()`-> einfache Zusammenfassung/Beschreibung des Datensatzes
 
