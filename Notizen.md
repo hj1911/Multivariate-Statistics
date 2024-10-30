@@ -23,3 +23,8 @@ library("foreign")
 - `dim()`-> Anzahl Spalten und Zeilen
 - `summary()`,`describe()`-> einfache Zusammenfassung/Beschreibung des Datensatzes
 
+## 30.10.24
+- Variablen recodieren mit `car::recode()` oder Wertezuweisung oder Addition/Subtraktion
+- Stuktur eines Objektes anschauen mit `str()`
+- direktes Ausgeben einer Variable mit Klammer, z.B.: `(a<-b+c)`
+- Faktoren definieren mit `as.factor()`
